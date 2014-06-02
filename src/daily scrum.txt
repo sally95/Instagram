@@ -1,0 +1,54 @@
+=======================
+INFORMASI UMUM
+
+Nama kelompok:Bank Sueb
+Judul Topik:Sistem Database ERD
+Alamat Github:https://github.com/DediJosua/ERD
+Alamat Trello:https://trello.com/b/MK917NaM/sistem-database-erd
+Anggota 1:
+	Nama:Muhammad.arsyad
+	NIM:12 111 3576
+Anggota 2:
+	Nama:sally kusumo 
+	NIM:12 111 0000
+Anggota 3:
+	Nama:vinson Theodoric
+	NIM:12 111 0000
+Anggota 4:
+	Nama: adnri angkusuma
+	NIM:12 111 0000
+=======================
+
+SPRINT
+------
+Sprint 1:perbandingan instagram dn path 
+30/5 - 31/5
+Scrummaster: Muhammad. Arsyad (12 111 3576)
+
+Sprint 2: perbandingan insagram dan path
+31/05 - 1/05
+scrum master : muhammad.arsyad (12 111 3576)
+1/05 -2/05
+Sprint 3: 
+
+Progress Harian (Diupdate tiap hari)
+------------------------------------
+
+31/5 
+Daily Scrum
+(Muhammad. Arsyad):
+1. Semalam saya  sprint perbadingan instagram dan path
+2. Hari ini saya perbaikan sprint perbandingan dan path 
+3. Saya ada kendala di saat menghubah index.jade untuk pebandingan instgram dan path, dan tidak bsa untuk menampilkan presentasi  
+
+vinson theodoric :
+1.push fitur-fitur instagram
+2.perbaikan push fitur-fitur instagram
+3.kendala dalam pull dan push fitur-fitur instagram 
+
+():
+1.
+2.
+3.
+
+...
