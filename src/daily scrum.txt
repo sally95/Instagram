@@ -46,9 +46,34 @@ vinson theodoric :
 2.perbaikan push fitur-fitur instagram
 3.kendala dalam pull dan push fitur-fitur instagram 
 
-():
+sally :
 1.
 2.
 3.
 
-...
+andri angkusuma :
+1.
+2.
+3.
+
+31/5 
+Daily Scrum
+(Muhammad. Arsyad):
+1. Semalam saya  sprint perkembangan instagram
+2. Hari ini saya perbaikan sprint perkembangan instagram 
+3. Saya ada kendala di saat mau push tpi tidak bisa 
+
+vinson theodoric :
+1.push mengedit perbedan instagram dan path
+2.perbaikan push perbedan instagram dan path
+3.kendala dalam pull dan push perbedan instagram dan path
+
+sally:
+1.
+2.
+3.
+
+andri angkusuma:
+1.
+2.
+3.
