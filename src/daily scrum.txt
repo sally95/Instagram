@@ -1,10 +1,10 @@
 =======================
 INFORMASI UMUM
 
-Nama kelompok:Bank Sueb
+Nama kelompok:instagram
 Judul Topik:Sistem Database ERD
-Alamat Github:https://github.com/DediJosua/ERD
-Alamat Trello:https://trello.com/b/MK917NaM/sistem-database-erd
+Alamat Github:https://github.com/sally95/instagram
+Alamat Trello:https:
 Anggota 1:
 	Nama:Muhammad.arsyad
 	NIM:12 111 3576
