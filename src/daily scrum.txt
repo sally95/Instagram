@@ -1,8 +1,8 @@
 =======================
 INFORMASI UMUM
 
-Nama kelompok:instagram
-Judul Topik:Sistem Database ERD
+Nama kelompok:
+Judul Topik:INSTAGRAM
 Alamat Github:https://github.com/sally95/instagram
 Alamat Trello:https:
 Anggota 1:
