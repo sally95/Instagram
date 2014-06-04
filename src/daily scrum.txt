@@ -1,10 +1,10 @@
 =======================
 INFORMASI UMUM
 
-Nama kelompok:
+Nama kelompok:SVAA
 Judul Topik:INSTAGRAM
 Alamat Github:https://github.com/sally95/instagram
-Alamat Trello:https:
+Alamat Trello:https://trello.com/b/8ngjwKTU/instagram
 Anggota 1:
 	Nama:Muhammad.arsyad
 	NIM:12 111 3576
