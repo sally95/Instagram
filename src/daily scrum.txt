@@ -29,7 +29,11 @@ Sprint 2: perbandingan insagram dan path
 31/05 - 1/05
 scrum master : muhammad.arsyad (12 111 3576)
 1/05 -2/05
-Sprint 3: 
+
+Sprint 3:membuat log book dri scrum master 2
+2/05 - 2/05
+scrum master : M.Arsyad (12.111.3576) 
+ 
 
 Progress Harian (Diupdate tiap hari)
 ------------------------------------
@@ -89,9 +93,9 @@ Sprint 2: mengedit semua section instagram
 3/6 - 4/6
 scrum master : Vinson Theodoric (12.111.0600)
 
-Sprint 3: membuat log book dri scrum master 2
+Sprint 3: membuat log book dri scrum master 3
 4/6 - 5/6
-scrum master : Vinson Theodoric (12.111.0600 
+scrum master : Vinson Theodoric (12.111.0600)
 
 Progress Harian (Diupdate tiap hari)
 
