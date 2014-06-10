@@ -77,3 +77,22 @@ andri angkusuma:
 1.
 2.
 3.
+
+
+SPRINT
+------
+Sprint 1: Mengedit bagian perbedaan instagram dan path
+2/6 - 3/6
+Scrummaster: Vinson Theodoric (12.111.0600)
+
+Sprint 2: mengedit semua section instagram
+3/6 - 4/6
+scrum master : Vinson Theodoric (12.111.0600)
+
+Sprint 3: membuat log book dri scrum master 2
+4/6 - 5/6
+scrum master : Vinson Theodoric (12.111.0600 
+
+Progress Harian (Diupdate tiap hari)
+
+
